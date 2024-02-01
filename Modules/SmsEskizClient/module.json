@@ -1,0 +1,11 @@
+{
+    "name": "SmsEskizClient",
+    "alias": "smseskizclient",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\SmsEskizClient\\App\\Providers\\SmsEskizClientServiceProvider"
+    ],
+    "files": []
+}
